@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate MERN STACK Developer</h3>
 Email Me 👉 ✉️ **adityajha95087@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
@@ -17,7 +17,8 @@ Email Me 👉 ✉️ **adityajha95087@gmail.com** For Collaboration/Project or A
 
 - 📫 How to reach me **adityajha95087@gmail.com**
 
-- 📄 Know about my experiences [FRESHER](FRESHER)
+- 📄 Know about my experiences { I have Completed my 1-month internship from I2I industry Danapur Patna as a Web developer , In this internship i have work on E-commerce online book selling Platform (PustakBazaar) that is build on MERN.(REPO URL (https://github.com/aditya95087/PustakBazaar)) }
+- { I have also completeme 2-month internship from InternNexus Patna as a MERN stack Developer, In this internship i have work on service based startup idea (WorkLink) , It feature like it will connect worker with needy people without intermediator, it is based on MERN and AI intergration.}
 
 - ⚡ Fun fact **I am very chill like every time i am positive .**
 
