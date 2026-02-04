@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **adityajha95087@gmail.com** For Collaboration/Project or A
 
 - Project NO (01) [Sundown Studio Clone](https://aditya95087.github.io/Sundown_Clone/)
 
-- Project NO (02) [My_Portfolio](https://aditya95087.github.io/Myportfolio/)
+- Project NO (02) [My_Portfolio](https://aditya95087.github.io/PortFolio/)
 
 - 👨‍💻 All of my projects are available at [https://aditya95087.github.io/Myportfolio/](https://aditya95087.github.io/Myportfolio/)
 
