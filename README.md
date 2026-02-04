@@ -11,6 +11,8 @@ Email Me 👉 ✉️ **adityajha95087@gmail.com** For Collaboration/Project or A
 
 - Project NO (02) [My_Portfolio](https://aditya95087.github.io/PortFolio/)
 
+   - Project NO (03) [Workshop Registration](https://workshop-organising.vercel.app/)
+
 - 👨‍💻 All of my projects are available at [https://aditya95087.github.io/Myportfolio/](https://aditya95087.github.io/Myportfolio/)
 
 - 📫 How to reach me **adityajha95087@gmail.com**
